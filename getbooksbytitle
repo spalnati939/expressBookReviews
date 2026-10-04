@@ -1,0 +1,12 @@
+$ curl http://localhost:5500/title/Pride%20and%20Prejudice
+
+{
+    "booksbytitle": [
+        {
+            "isbn": "8",
+            "author": "Jane Austen",
+            "title": "Pride and Prejudice",
+            "reviews": {}
+        }
+    ]
+}
